@@ -1,0 +1,30 @@
+[
+    {
+        "id": "001",
+        "image": "test.jpg",
+        "category": "object",
+        "question": "Is there a car in the image? Answer only yes or no.",
+        "ground_truth": "no"
+    },
+    {
+        "id": "002",
+        "image": "test.jpg",
+        "category": "attribute",
+        "question": "Is the front cyclist wearing a black top? Answer only yes or no.",
+        "ground_truth": "yes"
+    },
+    {
+        "id": "003",
+        "image": "test.jpg",
+        "category": "counting",
+        "question": "How many people are in the image? Answer with a number only.",
+        "ground_truth": "2"
+    },
+    {
+        "id": "004",
+        "image": "test.jpg",
+        "category": "relation",
+        "question": "Are both people riding bicycles? Answer only yes or no.",
+        "ground_truth": "yes"
+    }
+]

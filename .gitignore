@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Hugging Face / model cache
+.cache/
+huggingface/
+*.safetensors
+*.bin
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+data/images/*
+!data/images/.gitkeep
