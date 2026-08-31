@@ -1,0 +1,490 @@
+[
+  {
+    "output_image": "img001.jpg",
+    "image_id": 285,
+    "source_file": "000000000285.jpg",
+    "width": 586,
+    "height": 640,
+    "difficulty": "easy",
+    "annotation_count": 1,
+    "small_object_count": 0,
+    "selection_score": 2,
+    "present_categories": [
+      "bear"
+    ],
+    "countable_category_counts": {
+      "bear": 1
+    },
+    "sha256": "f3a2974ce3686332609124c70e3e6a2e3aca43fccf1cd1bd7c5c03820977f57d"
+  },
+  {
+    "output_image": "img002.jpg",
+    "image_id": 5503,
+    "source_file": "000000005503.jpg",
+    "width": 333,
+    "height": 500,
+    "difficulty": "easy",
+    "annotation_count": 1,
+    "small_object_count": 0,
+    "selection_score": 2,
+    "present_categories": [
+      "toilet"
+    ],
+    "countable_category_counts": {
+      "toilet": 1
+    },
+    "sha256": "ff95bf5ddb4bdbd7f4f0f96d963cd941a0a2b38cfcf7832f25113e8441a443c6"
+  },
+  {
+    "output_image": "img003.jpg",
+    "image_id": 7784,
+    "source_file": "000000007784.jpg",
+    "width": 500,
+    "height": 375,
+    "difficulty": "easy",
+    "annotation_count": 1,
+    "small_object_count": 0,
+    "selection_score": 2,
+    "present_categories": [
+      "kite"
+    ],
+    "countable_category_counts": {
+      "kite": 1
+    },
+    "sha256": "2b472f58ae604977c3c288320aed7fa8823043758e1b40b9cede91921d7154eb"
+  },
+  {
+    "output_image": "img004.jpg",
+    "image_id": 10995,
+    "source_file": "000000010995.jpg",
+    "width": 640,
+    "height": 480,
+    "difficulty": "easy",
+    "annotation_count": 1,
+    "small_object_count": 0,
+    "selection_score": 2,
+    "present_categories": [
+      "bed"
+    ],
+    "countable_category_counts": {
+      "bed": 1
+    },
+    "sha256": "19ee23abae8a3da6b5914987e991ea9ee8a9743309ae17db732426c8fa860fe2"
+  },
+  {
+    "output_image": "img005.jpg",
+    "image_id": 12667,
+    "source_file": "000000012667.jpg",
+    "width": 640,
+    "height": 480,
+    "difficulty": "easy",
+    "annotation_count": 1,
+    "small_object_count": 0,
+    "selection_score": 2,
+    "present_categories": [
+      "banana"
+    ],
+    "countable_category_counts": {
+      "banana": 1
+    },
+    "sha256": "0bf182b59b89f534d6f89a2b57c976c47b7f9a95e5e47a7f236b285b9211af14"
+  },
+  {
+    "output_image": "img006.jpg",
+    "image_id": 14888,
+    "source_file": "000000014888.jpg",
+    "width": 640,
+    "height": 480,
+    "difficulty": "medium",
+    "annotation_count": 1,
+    "small_object_count": 0,
+    "selection_score": 2,
+    "present_categories": [
+      "cow"
+    ],
+    "countable_category_counts": {
+      "cow": 1
+    },
+    "sha256": "aba25018b65a2a52ce7d77e68c6501e532084cd327e6cb230225e302fca95f4c"
+  },
+  {
+    "output_image": "img007.jpg",
+    "image_id": 127955,
+    "source_file": "000000127955.jpg",
+    "width": 640,
+    "height": 425,
+    "difficulty": "medium",
+    "annotation_count": 2,
+    "small_object_count": 0,
+    "selection_score": 3,
+    "present_categories": [
+      "bear"
+    ],
+    "countable_category_counts": {
+      "bear": 2
+    },
+    "sha256": "1d15001814fecbba57cb47fe3b99ebbe99df5adef2974589882ddd0a7be06e4b"
+  },
+  {
+    "output_image": "img008.jpg",
+    "image_id": 532493,
+    "source_file": "000000532493.jpg",
+    "width": 640,
+    "height": 408,
+    "difficulty": "medium",
+    "annotation_count": 2,
+    "small_object_count": 0,
+    "selection_score": 4,
+    "present_categories": [
+      "person",
+      "surfboard"
+    ],
+    "countable_category_counts": {
+      "person": 1,
+      "surfboard": 1
+    },
+    "sha256": "9cd73cf2dfb8463f5db5ec6ee2a2e379ecdfed44ae2751228b48791fc199738a"
+  },
+  {
+    "output_image": "img009.jpg",
+    "image_id": 551215,
+    "source_file": "000000551215.jpg",
+    "width": 480,
+    "height": 640,
+    "difficulty": "medium",
+    "annotation_count": 2,
+    "small_object_count": 1,
+    "selection_score": 6,
+    "present_categories": [
+      "person",
+      "tennis racket"
+    ],
+    "countable_category_counts": {
+      "person": 1,
+      "tennis racket": 1
+    },
+    "sha256": "e41b973323287a1781814b3a8356b7b971a89b031191932d26d74d6123696877"
+  },
+  {
+    "output_image": "img010.jpg",
+    "image_id": 579818,
+    "source_file": "000000579818.jpg",
+    "width": 640,
+    "height": 360,
+    "difficulty": "medium",
+    "annotation_count": 3,
+    "small_object_count": 2,
+    "selection_score": 9,
+    "present_categories": [
+      "person",
+      "train"
+    ],
+    "countable_category_counts": {
+      "person": 2,
+      "train": 1
+    },
+    "sha256": "eaa2b6895dfd05f81a68ed8de944184de6bf17973995d078de75907a6a4d515f"
+  },
+  {
+    "output_image": "img011.jpg",
+    "image_id": 239041,
+    "source_file": "000000239041.jpg",
+    "width": 640,
+    "height": 427,
+    "difficulty": "medium",
+    "annotation_count": 4,
+    "small_object_count": 3,
+    "selection_score": 14,
+    "present_categories": [
+      "bottle",
+      "hair drier",
+      "sink",
+      "tv"
+    ],
+    "countable_category_counts": {
+      "bottle": 1,
+      "tv": 1,
+      "sink": 1,
+      "hair drier": 1
+    },
+    "sha256": "bdb827513fc9912805aef05e350cb9e2c9b254ac8dd068e0283cfab28b168b4c"
+  },
+  {
+    "output_image": "img012.jpg",
+    "image_id": 197388,
+    "source_file": "000000197388.jpg",
+    "width": 640,
+    "height": 392,
+    "difficulty": "medium",
+    "annotation_count": 9,
+    "small_object_count": 5,
+    "selection_score": 21,
+    "present_categories": [
+      "person",
+      "skis"
+    ],
+    "countable_category_counts": {
+      "person": 5,
+      "skis": 4
+    },
+    "sha256": "dec0fbb931cb609bf481e56b89cd2fbbab79839f22832c3bbe69a8fae2769cdd"
+  },
+  {
+    "output_image": "img013.jpg",
+    "image_id": 419312,
+    "source_file": "000000419312.jpg",
+    "width": 375,
+    "height": 500,
+    "difficulty": "medium",
+    "annotation_count": 12,
+    "small_object_count": 6,
+    "selection_score": 31,
+    "present_categories": [
+      "bowl",
+      "cake",
+      "carrot",
+      "cup",
+      "dining table",
+      "fork",
+      "knife"
+    ],
+    "countable_category_counts": {
+      "cup": 3,
+      "fork": 1,
+      "knife": 1,
+      "bowl": 2,
+      "carrot": 3,
+      "cake": 1,
+      "dining table": 1
+    },
+    "sha256": "7b953b528b2ae9fdc1c768710a8581c397ea552651ceeab6b59d2603f3223417"
+  },
+  {
+    "output_image": "img014.jpg",
+    "image_id": 35682,
+    "source_file": "000000035682.jpg",
+    "width": 480,
+    "height": 640,
+    "difficulty": "medium",
+    "annotation_count": 18,
+    "small_object_count": 12,
+    "selection_score": 49,
+    "present_categories": [
+      "cake",
+      "chair",
+      "cup",
+      "dining table",
+      "donut",
+      "handbag",
+      "person"
+    ],
+    "countable_category_counts": {
+      "person": 4,
+      "handbag": 1,
+      "cup": 2,
+      "donut": 5,
+      "cake": 2,
+      "chair": 3,
+      "dining table": 1
+    },
+    "sha256": "1844cfa76d23a9768578f2c27306ecbad99326d2d374b070af9c56d50058c155"
+  },
+  {
+    "output_image": "img015.jpg",
+    "image_id": 303566,
+    "source_file": "000000303566.jpg",
+    "width": 640,
+    "height": 426,
+    "difficulty": "medium",
+    "annotation_count": 53,
+    "small_object_count": 45,
+    "selection_score": 149,
+    "present_categories": [
+      "apple",
+      "backpack",
+      "car",
+      "handbag",
+      "orange",
+      "person"
+    ],
+    "countable_category_counts": {
+      "car": 8,
+      "backpack": 1,
+      "handbag": 5
+    },
+    "sha256": "ca7de33d4784740725c0c5831d1ebe5d602d49442f8a0eb38c83d76360c34172"
+  },
+  {
+    "output_image": "img016.jpg",
+    "image_id": 31296,
+    "source_file": "000000031296.jpg",
+    "width": 640,
+    "height": 425,
+    "difficulty": "hard",
+    "annotation_count": 52,
+    "small_object_count": 47,
+    "selection_score": 154,
+    "present_categories": [
+      "bottle",
+      "cell phone",
+      "chair",
+      "clock",
+      "cup",
+      "dining table",
+      "person",
+      "tie"
+    ],
+    "countable_category_counts": {
+      "person": 13,
+      "tie": 1,
+      "bottle": 9,
+      "cup": 7,
+      "dining table": 7,
+      "cell phone": 1,
+      "clock": 1
+    },
+    "sha256": "e44caeefa73a14822ea5d47f5c84023ef7883bc064bcc089ca2f368a8945e2ac"
+  },
+  {
+    "output_image": "img017.jpg",
+    "image_id": 36494,
+    "source_file": "000000036494.jpg",
+    "width": 640,
+    "height": 434,
+    "difficulty": "hard",
+    "annotation_count": 49,
+    "small_object_count": 48,
+    "selection_score": 154,
+    "present_categories": [
+      "bottle",
+      "bowl",
+      "chair",
+      "clock",
+      "cup",
+      "dining table",
+      "person",
+      "refrigerator",
+      "vase"
+    ],
+    "countable_category_counts": {
+      "bottle": 4,
+      "cup": 1,
+      "bowl": 2,
+      "refrigerator": 1,
+      "clock": 1,
+      "vase": 1
+    },
+    "sha256": "08defd539aa6aaea4f85c03b650b6b3d4ceb5d47e65a29d9aa17d18915daf9b8"
+  },
+  {
+    "output_image": "img018.jpg",
+    "image_id": 18380,
+    "source_file": "000000018380.jpg",
+    "width": 640,
+    "height": 426,
+    "difficulty": "hard",
+    "annotation_count": 53,
+    "small_object_count": 46,
+    "selection_score": 156,
+    "present_categories": [
+      "bowl",
+      "carrot",
+      "chair",
+      "cup",
+      "dining table",
+      "fork",
+      "knife",
+      "person",
+      "spoon",
+      "vase",
+      "wine glass"
+    ],
+    "countable_category_counts": {
+      "wine glass": 6,
+      "cup": 12,
+      "fork": 3,
+      "knife": 4,
+      "spoon": 3,
+      "bowl": 6,
+      "carrot": 3,
+      "chair": 1,
+      "dining table": 1,
+      "vase": 1
+    },
+    "sha256": "5f019938d891305fab6ae0d0e9edc79e0d74407cdbd0ecce324aada0ab93a86e"
+  },
+  {
+    "output_image": "img019.jpg",
+    "image_id": 470924,
+    "source_file": "000000470924.jpg",
+    "width": 640,
+    "height": 480,
+    "difficulty": "hard",
+    "annotation_count": 55,
+    "small_object_count": 47,
+    "selection_score": 158,
+    "present_categories": [
+      "car",
+      "chair",
+      "cup",
+      "dining table",
+      "fork",
+      "knife",
+      "person",
+      "pizza",
+      "wine glass"
+    ],
+    "countable_category_counts": {
+      "car": 5,
+      "wine glass": 2,
+      "cup": 5,
+      "fork": 2,
+      "knife": 4,
+      "pizza": 8,
+      "chair": 13,
+      "dining table": 3
+    },
+    "sha256": "47ba4dc69534e8710521807833e8ef4cada28af46ee4d985455ba20483d93650"
+  },
+  {
+    "output_image": "img020.jpg",
+    "image_id": 435081,
+    "source_file": "000000435081.jpg",
+    "width": 500,
+    "height": 500,
+    "difficulty": "hard",
+    "annotation_count": 62,
+    "small_object_count": 57,
+    "selection_score": 189,
+    "present_categories": [
+      "bowl",
+      "cake",
+      "carrot",
+      "chair",
+      "cup",
+      "dining table",
+      "donut",
+      "fork",
+      "knife",
+      "pizza",
+      "sandwich",
+      "spoon",
+      "vase"
+    ],
+    "countable_category_counts": {
+      "cup": 2,
+      "fork": 4,
+      "knife": 3,
+      "spoon": 4,
+      "bowl": 8,
+      "sandwich": 9,
+      "carrot": 3,
+      "pizza": 1,
+      "donut": 5,
+      "chair": 1,
+      "dining table": 9,
+      "vase": 1
+    },
+    "sha256": "cc29914bae20316129a027ae17ee3b8359173b8e2172818dbf02ac21dd7dbbf9"
+  }
+]

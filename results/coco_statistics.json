@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-08-31T00:48:09+08:00",
+  "total_samples": 60,
+  "processed_samples": 60,
+  "successful_samples": 60,
+  "failed_samples": 0,
+  "pending_samples": 0,
+  "overall_accuracy": 0.85,
+  "overall_error_rate": 0.15000000000000002,
+  "object_accuracy": 1.0,
+  "counting_accuracy": 0.55,
+  "difficulty_accuracy": {
+    "easy": 1.0,
+    "medium": 0.8666666666666667,
+    "hard": 0.6666666666666666
+  },
+  "object_polarity_accuracy": {
+    "positive": 1.0,
+    "negative": 1.0
+  },
+  "overall": {
+    "correct": 51,
+    "evaluated": 60,
+    "accuracy": 0.85,
+    "error_rate": 0.15000000000000002
+  },
+  "by_category": {
+    "object": {
+      "correct": 40,
+      "evaluated": 40,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    },
+    "counting": {
+      "correct": 11,
+      "evaluated": 20,
+      "accuracy": 0.55,
+      "error_rate": 0.44999999999999996
+    }
+  },
+  "by_difficulty": {
+    "easy": {
+      "correct": 15,
+      "evaluated": 15,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    },
+    "medium": {
+      "correct": 26,
+      "evaluated": 30,
+      "accuracy": 0.8666666666666667,
+      "error_rate": 0.1333333333333333
+    },
+    "hard": {
+      "correct": 10,
+      "evaluated": 15,
+      "accuracy": 0.6666666666666666,
+      "error_rate": 0.33333333333333337
+    }
+  },
+  "by_object_polarity": {
+    "positive": {
+      "correct": 20,
+      "evaluated": 20,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    },
+    "negative": {
+      "correct": 20,
+      "evaluated": 20,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    }
+  },
+  "failure_reasons": {},
+  "run_error": null
+}
